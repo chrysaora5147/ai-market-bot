@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-06-03T03:31:41.095811+00:00",
+  "date": "2026-06-02",
+  "universe_size": 300,
+  "candidate_size": 122,
+  "note": "Public research snapshot. Local live scans use Alpaca credentials on the user's computer only.",
+  "top": [
+    {"symbol":"ALAB","name":"Astera Labs Inc.","sector":"Technology","industry":"Semiconductors","close":355.82,"near_high":1.0,"mom21":0.7525,"mom63":2.2406,"mom126":1.2575,"mom252":2.9230,"score":4.1139,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"MU","name":"Micron Technology Inc.","sector":"Technology","industry":"Semiconductors","close":1064.24,"near_high":1.0,"mom21":0.9626,"mom63":1.8023,"mom126":3.4988,"mom252":10.2191,"score":4.0204,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"MRVL","name":"Marvell Technology Inc.","sector":"Technology","industry":"Semiconductors","close":290.84,"near_high":1.0,"mom21":0.7635,"mom63":2.7516,"mom126":2.2531,"mom252":3.8373,"score":3.9898,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"AMD","name":"Advanced Micro Devices Inc.","sector":"Technology","industry":"Semiconductors","close":521.50,"near_high":1.0,"mom21":0.4464,"mom63":1.7302,"mom126":1.3976,"mom252":3.7118,"score":3.9130,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"KLAC","name":"KLA Corporation","sector":"Technology","industry":"Electronic Components","close":2045.11,"near_high":1.0,"mom21":0.1855,"mom63":0.4199,"mom126":0.7396,"mom252":1.7031,"score":3.7454,"industry_breadth":1.0,"industry_size":4},
+    {"symbol":"COHR","name":"Coherent Corp.","sector":"Technology","industry":"Electronic Components","close":426.85,"near_high":1.0,"mom21":0.2949,"mom63":0.5210,"mom126":1.6007,"mom252":4.6447,"score":3.7408,"industry_breadth":1.0,"industry_size":4},
+    {"symbol":"GLW","name":"Corning Incorporated","sector":"Industrials","industry":"Telecommunications Equipment","close":200.38,"near_high":0.9621,"mom21":0.2661,"mom63":0.3584,"mom126":1.3798,"mom252":3.0424,"score":3.6674,"industry_breadth":0.5,"industry_size":8},
+    {"symbol":"CIEN","name":"Ciena Corporation","sector":"Utilities","industry":"Telecommunications Equipment","close":627.60,"near_high":1.0,"mom21":0.1713,"mom63":0.8839,"mom126":2.0768,"mom252":6.8381,"score":3.6114,"industry_breadth":0.5,"industry_size":8},
+    {"symbol":"MPWR","name":"Monolithic Power Systems Inc.","sector":"Technology","industry":"Semiconductors","close":1626.07,"near_high":0.9780,"mom21":0.0270,"mom63":0.5130,"mom126":0.7492,"mom252":1.4496,"score":3.5952,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"AMAT","name":"Applied Materials Inc.","sector":"Technology","industry":"Semiconductors","close":490.44,"near_high":1.0,"mom21":0.2612,"mom63":0.3960,"mom126":0.9450,"mom252":2.1296,"score":3.5791,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"WDC","name":"Western Digital Corporation","sector":"Technology","industry":"Electronic Components","close":563.01,"near_high":1.0,"mom21":0.3044,"mom63":1.2458,"mom126":2.4471,"mom252":9.9259,"score":3.5618,"industry_breadth":1.0,"industry_size":4},
+    {"symbol":"ON","name":"ON Semiconductor Corporation","sector":"Technology","industry":"Semiconductors","close":128.68,"near_high":1.0,"mom21":0.2491,"mom63":1.0293,"mom126":1.5623,"mom252":2.0624,"score":3.5487,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"GFS","name":"GlobalFoundries Inc.","sector":"Technology","industry":"Semiconductors","close":84.60,"near_high":0.9415,"mom21":0.3030,"mom63":0.7916,"mom126":1.3621,"mom252":1.3592,"score":3.5145,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"SNDK","name":"Sandisk Corporation","sector":"Technology","industry":"Electronic Components","close":1716.33,"near_high":0.9750,"mom21":0.4446,"mom63":2.0350,"mom126":6.6802,"mom252":44.4537,"score":3.4977,"industry_breadth":1.0,"industry_size":4},
+    {"symbol":"TXN","name":"Texas Instruments Incorporated","sector":"Technology","industry":"Semiconductors","close":308.27,"near_high":0.9492,"mom21":0.0972,"mom63":0.5208,"mom126":0.8323,"mom252":0.6861,"score":3.4513,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"LRCX","name":"Lam Research Corporation","sector":"Technology","industry":"Industrial Machinery/Components","close":334.60,"near_high":1.0,"mom21":0.3034,"mom63":0.5397,"mom126":1.1439,"mom252":3.1431,"score":3.4471,"industry_breadth":0.3571,"industry_size":14},
+    {"symbol":"CRDO","name":"Credo Technology Group","sector":"Technology","industry":"Semiconductors","close":229.13,"near_high":0.9698,"mom21":0.2418,"mom63":1.3545,"mom126":0.2905,"mom252":2.7629,"score":3.4104,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"JBL","name":"Jabil Inc.","sector":"Technology","industry":"Electrical Products","close":373.14,"near_high":0.9809,"mom21":0.0894,"mom63":0.4676,"mom126":0.7704,"mom252":1.2208,"score":3.3761,"industry_breadth":0.6667,"industry_size":3},
+    {"symbol":"BE","name":"Bloom Energy Corporation","sector":"Energy","industry":"Industrial Machinery/Components","close":302.90,"near_high":0.9842,"mom21":0.0423,"mom63":0.9801,"mom126":1.7734,"mom252":15.4085,"score":3.2839,"industry_breadth":0.3571,"industry_size":14},
+    {"symbol":"ADI","name":"Analog Devices Inc.","sector":"Technology","industry":"Semiconductors","close":423.35,"near_high":0.9785,"mom21":0.0645,"mom63":0.2488,"mom126":0.5945,"mom252":0.9791,"score":3.2696,"industry_breadth":0.9375,"industry_size":16},
+    {"symbol":"DELL","name":"Dell Technologies Inc.","sector":"Technology","industry":"Computer Manufacturing","close":435.42,"near_high":0.9342,"mom21":1.0711,"mom63":1.9990,"mom126":2.2694,"mom252":2.9132,"score":3.1843,"industry_breadth":0.3333,"industry_size":3},
+    {"symbol":"TER","name":"Teradyne Inc.","sector":"Industrials","industry":"Electrical Products","close":392.61,"near_high":0.9391,"mom21":0.1366,"mom63":0.2903,"mom126":1.1592,"mom252":3.9906,"score":3.1331,"industry_breadth":0.6667,"industry_size":3},
+    {"symbol":"LITE","name":"Lumentum Holdings Inc.","sector":"Telecommunications","industry":"Telecommunications Equipment","close":1029.02,"near_high":0.9769,"mom21":0.0836,"mom63":0.4836,"mom126":2.1647,"mom252":13.2414,"score":3.1313,"industry_breadth":0.5,"industry_size":8},
+    {"symbol":"INTC","name":"Intel Corporation","sector":"Technology","industry":"Semiconductors","close":107.92,"near_high":0.8336,"mom21":0.0829,"mom63":1.5028,"mom126":1.6588,"mom252":4.5287,"score":3.1094,"industry_breadth":0.9375,"industry_size":16}
+  ],
+  "industry_breadth": {
+    "Semiconductors": {"size":16,"breadth":0.9375,"median_mom126":0.9450},
+    "Electronic Components": {"size":4,"breadth":1.0,"median_mom126":2.4471},
+    "Telecommunications Equipment": {"size":8,"breadth":0.5,"median_mom126":1.1010},
+    "Industrial Machinery/Components": {"size":14,"breadth":0.3571,"median_mom126":0.2119},
+    "Electrical Products": {"size":3,"breadth":0.6667,"median_mom126":0.7704},
+    "Computer Manufacturing": {"size":3,"breadth":0.3333,"median_mom126":0.1307}
+  }
+}
